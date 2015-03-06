@@ -385,3 +385,10 @@
 	.skype {
 		background-position: 0 -180px;
 	}
+
+	/*** Estilo aptitudes */
+	div.aptitudes_box {
+		float: left;
+		width: 25%;
+		margin: 0px 4%;
+	}
